@@ -13,3 +13,7 @@ FitzJohn, R.G. 2012. Diversitree: comparative phylogenetic analyses of
 diversification in R. Methods in Ecology and Evolution 3:1084-1092.
 doi: 10.1111/j.2041-210X.2012.00234.x
 http://cran.r-project.org/web/packages/diversitree/index.html
+
+Citation for this code:
+
+Goldberg, E.E. 2014. A steppingstone sampler in R. doi: 10.5281/zenodo.10716.
